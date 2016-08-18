@@ -134,7 +134,7 @@ var education = {
         "majors": ["Computer Science"],
         "dates": "2007",
         "url": "http://example.com"
-    } ],
+    }],
     "onlineCourses": [{
         "title": "Javascript Crash Course",
         "school": "Udacity",
@@ -234,7 +234,7 @@ var projects = {
             "images/197x148.gif",
             "images/197x148.gif"
         ]
-    } ]
+    }]
 };
 
 projects.display = function() {
